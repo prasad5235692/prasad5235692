@@ -16,7 +16,7 @@
 <br/><br/>
 
 <!-- Social pills -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=black"/></a>&nbsp;<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=black"/></a>&nbsp<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <!-- Thin glowing divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:38bdf8,100:020817&height=2&section=header" width="100%"/>
