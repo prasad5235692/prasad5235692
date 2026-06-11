@@ -1,143 +1,91 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Prasad+%F0%9F%91%8B;Frontend+Engineer+%26+Creative+Developer;Building+Immersive+Digital+Experiences;React+%E2%80%A2+Vue+%E2%80%A2+Angular+%E2%80%A2+Three.js" alt="Typing SVG" />
+# 👋 Hi, I'm Prasad
 
-<div align="center">
+### 🚀 Frontend Developer | Creative UI Engineer | Interactive Web Enthusiast
 
-### ✦ Crafting next-generation web experiences through code, motion, and creativity.
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-
-</div>
+I build modern, scalable, and visually engaging web applications with a strong focus on performance, user experience, and clean architecture.
 
 ---
 
-<div align="center">
+## 💫 About Me
 
-## ⚡ Tech Arsenal
-
-<img src="https://skillicons.dev/icons?i=react,vue,angular,ts,js,nodejs,express,mongodb,postgres,git,github,vercel,vscode&theme=dark" />
-
-</div>
+* 🔭 Currently working on **advanced web and mobile applications**
+* 🌱 Exploring **Agentic AI** and intelligent automation systems
+* 🎨 Passionate about creating **immersive user interfaces and animations**
+* ⚡ Love turning complex ideas into elegant digital experiences
+* 💡 Always learning and experimenting with emerging technologies
 
 ---
 
-## 🎯 Currently Focused On
+## 🛠 Tech Stack
 
-```yaml
-Frontend:
-  - React.js Ecosystem
-  - Vue 3 + Composition API
-  - Angular Enterprise Applications
+### Frontend Development
 
-Creative Development:
-  - Three.js Experiences
-  - Canvas-Based Animations
-  - Interactive Storytelling
+* ⚛️ React.js
+* 🟢 Vue.js
+* 🅰️ Angular
+* 📜 JavaScript (ES6+)
+* 🔷 TypeScript
+* 🎨 HTML5 & CSS3
 
-Exploring:
-  - Agentic AI Systems
-  - Intelligent Automation
-  - Advanced UI Architectures
+### Interactive Experiences
+
+* 🌌 Three.js
+* 🎭 Canvas Animations
+* ✨ GSAP Animations
+* 🎮 Web-based Interactive Visualizations
+
+### Mobile Development
+
+* 📱 React Native
+
+### Backend & Database
+
+* 🟢 Node.js
+* 🚂 Express.js
+* 🍃 MongoDB
+* 🐘 PostgreSQL
+
+### Tools & Platforms
+
+* 🔧 Git & GitHub
+* ☁️ Vercel
+* 🐳 Docker
+* 🎨 Figma
+
+---
+
+## 🚀 What I Build
+
+✨ Modern Dashboards
+✨ Interactive 3D Experiences
+✨ Enterprise Web Applications
+✨ Cross-Platform Mobile Apps
+✨ Real-Time Data Visualizations
+✨ Custom Admin Panels
+
+---
+
+## 🌟 Featured Skills
+
+```text
+React.js        ████████████████████ 95%
+Vue.js          ██████████████████░░ 90%
+Angular         ████████████████░░░░ 85%
+Three.js        █████████████████░░░ 88%
+Canvas API      █████████████████░░░ 87%
+TypeScript      ██████████████████░░ 90%
 ```
 
 ---
 
-<div align="center">
+## 📈 GitHub Goals
 
-## 🌌 Creative Development Stack
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚛ Frontend
-
-* React.js
-* Vue.js
-* Angular
-* TypeScript
-* Next.js
-* Tailwind CSS
-
-</td>
-<td width="50%">
-
-### 🎨 Interactive Web
-
-* Three.js
-* Canvas API
-* GSAP
-* Motion Design
-* WebGL Concepts
-* Performance Optimization
-
-</td>
-</tr>
-</table>
+> Building impactful software through innovation, creativity, and continuous learning.
 
 ---
 
-## 🚀 Building Experiences Like
+### 🤝 Let's Connect
 
-<div align="center">
+If you're interested in collaborating on exciting projects or discussing new ideas, feel free to reach out.
 
-|  💻 Enterprise Apps | 🌐 Modern Websites |     🌌 3D Experiences    |
-| :-----------------: | :----------------: | :----------------------: |
-|   Admin Dashboards  |   Portfolio Sites  |    Product Visualizers   |
-|     CRM Systems     |    Landing Pages   | Interactive Storytelling |
-| Analytics Platforms |   SaaS Platforms   |   Immersive Interfaces   |
-
-</div>
-
----
-
-## 📊 Development Philosophy
-
-> **"Good interfaces solve problems. Great interfaces create experiences."**
-
-I enjoy blending **engineering precision** with **creative thinking** to build products that are not only functional but memorable.
-
----
-
-<div align="center">
-
-## ⚡ Contribution Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" height="170" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-## 💫 Let's Build Something Extraordinary
-
-**Frontend Engineer • Creative Developer • Problem Solver**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
-
-</div>
+⭐ *Thanks for visiting my profile!*
