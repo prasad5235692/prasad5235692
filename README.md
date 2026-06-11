@@ -1,91 +1,196 @@
-# 👋 Hi, I'm Prasad
+# <div align="center">Prasad</div>
 
-### 🚀 Frontend Developer | Creative UI Engineer | Interactive Web Enthusiast
+<div align="center">
 
-I build modern, scalable, and visually engaging web applications with a strong focus on performance, user experience, and clean architecture.
+### Frontend Engineer • Creative Developer • Building Interactive Digital Experiences
 
----
+<br/>
 
-## 💫 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=React+Developer;Vue+Enthusiast;Angular+Architect;Three.js+Explorer;Canvas+Animation+Creator" />
 
-* 🔭 Currently working on **advanced web and mobile applications**
-* 🌱 Exploring **Agentic AI** and intelligent automation systems
-* 🎨 Passionate about creating **immersive user interfaces and animations**
-* ⚡ Love turning complex ideas into elegant digital experiences
-* 💡 Always learning and experimenting with emerging technologies
+</div>
 
 ---
 
-## 🛠 Tech Stack
+<table>
+<tr>
+<td width="65%" valign="top">
 
-### Frontend Development
-
-* ⚛️ React.js
-* 🟢 Vue.js
-* 🅰️ Angular
-* 📜 JavaScript (ES6+)
-* 🔷 TypeScript
-* 🎨 HTML5 & CSS3
-
-### Interactive Experiences
-
-* 🌌 Three.js
-* 🎭 Canvas Animations
-* ✨ GSAP Animations
-* 🎮 Web-based Interactive Visualizations
-
-### Mobile Development
-
-* 📱 React Native
-
-### Backend & Database
-
-* 🟢 Node.js
-* 🚂 Express.js
-* 🍃 MongoDB
-* 🐘 PostgreSQL
-
-### Tools & Platforms
-
-* 🔧 Git & GitHub
-* ☁️ Vercel
-* 🐳 Docker
-* 🎨 Figma
-
----
-
-## 🚀 What I Build
-
-✨ Modern Dashboards
-✨ Interactive 3D Experiences
-✨ Enterprise Web Applications
-✨ Cross-Platform Mobile Apps
-✨ Real-Time Data Visualizations
-✨ Custom Admin Panels
-
----
-
-## 🌟 Featured Skills
+## ✦ Currently Building
 
 ```text
-React.js        ████████████████████ 95%
-Vue.js          ██████████████████░░ 90%
-Angular         ████████████████░░░░ 85%
-Three.js        █████████████████░░░ 88%
-Canvas API      █████████████████░░░ 87%
-TypeScript      ██████████████████░░ 90%
+◉ Enterprise Dashboard Systems
+◉ Interactive 3D Web Experiences
+◉ Cross-platform Mobile Applications
+◉ Agentic AI Workflows
+```
+
+### Design Philosophy
+
+> Create interfaces that feel effortless,
+> performant, and memorable.
+
+</td>
+
+<td width="35%" valign="top">
+
+```text
+Location
+────────────
+🌏 India
+
+Status
+────────────
+🟢 Open to collaboration
+
+Focus
+────────────
+⚡ Creative Frontend
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# Bento Grid
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚛ Frontend
+
+```text
+React.js
+Vue.js
+Angular
+TypeScript
+Next.js
+```
+
+</td>
+
+<td width="50%">
+
+### 🌌 Creative Coding
+
+```text
+Three.js
+Canvas API
+GSAP
+Web Animations
+Motion Design
+```
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🚀 Backend
+
+```text
+Node.js
+Express.js
+MongoDB
+PostgreSQL
+REST APIs
+```
+
+</td>
+
+<td>
+
+### 🛠 Workflow
+
+```text
+Git
+GitHub
+Vercel
+Docker
+Figma
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected Projects
+
+```text
+◉ 3D Product Configurator
+   → Three.js + React
+
+◉ Learning Management Platform
+   → React Native + Node.js
+
+◉ Enterprise Approval System
+   → Angular + Express
+
+◉ Interactive Data Dashboard
+   → React + Canvas
 ```
 
 ---
 
-## 📈 GitHub Goals
+## Toolbox
 
-> Building impactful software through innovation, creativity, and continuous learning.
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vue,angular,ts,js,nodejs,mongodb,postgres,git,github,vercel,docker" />
+
+</p>
 
 ---
 
-### 🤝 Let's Connect
+## Development Mindset
 
-If you're interested in collaborating on exciting projects or discussing new ideas, feel free to reach out.
+```mermaid
+graph LR
+A[Idea] --> B[Prototype]
+B --> C[Design]
+C --> D[Development]
+D --> E[Optimization]
+E --> F[Launch]
+```
 
-⭐ *Thanks for visiting my profile!*
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+## Current Energy
+
+```text
+Frontend Development    ████████████████ 95%
+Three.js                ███████████████  90%
+Canvas Animation        ██████████████   88%
+UI Engineering          ████████████████ 93%
+Problem Solving         ███████████████  89%
+```
+
+---
+
+<div align="center">
+
+### Building products where engineering meets creativity.
+
+<br/>
+
+*"The details are not the details. They make the design."*
+
+</div>
